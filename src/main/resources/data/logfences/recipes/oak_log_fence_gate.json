@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "#O#",
+  "#O#"
+ ],
+ "key":{
+  "#": {
+   "item": "minecraft:stick"
+  },
+  "O": {
+   "item": "minecraft:oak_log"
+  }
+ },
+ "result": {
+  "item": "logfences:oak_log_fence_gate"
+ }
+}

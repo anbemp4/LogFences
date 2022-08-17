@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "logfences:crimson_stem_fence",
+    "logfences:warped_stem_fence",
+    "logfences:crimson_stem_fence_gate",
+    "logfences:warped_stem_fence_gate"
+  ]
+}

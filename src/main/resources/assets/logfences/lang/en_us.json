@@ -1,0 +1,18 @@
+{
+ "block.logfences.oak_log_fence": "Oak Log Fence",
+ "block.logfences.oak_log_fence_gate": "Oak Log Fence Gate",
+ "block.logfences.spruce_log_fence": "Spruce Log Fence",
+ "block.logfences.spruce_log_fence_gate": "Spruce Log Fence Gate",
+ "block.logfences.birch_log_fence": "Birch Log Fence",
+ "block.logfences.birch_log_fence_gate": "Birch Log Fence Gate",
+ "block.logfences.jungle_log_fence": "Jungle Log Fence",
+ "block.logfences.jungle_log_fence_gate": "Jungle Log Fence Gate",
+ "block.logfences.acacia_log_fence": "Acacia Log Fence",
+ "block.logfences.acacia_log_fence_gate": "Acacia Log Fence Gate",
+ "block.logfences.dark_oak_log_fence": "Dark Oak Log Fence",
+ "block.logfences.dark_oak_log_fence_gate": "Dark Oak Log Fence Gate",
+ "block.logfences.crimson_stem_fence": "Crimson Stem Fence",
+ "block.logfences.crimson_stem_fence_gate": "Crimson Stem Fence Gate",
+ "block.logfences.warped_stem_fence": "Warped Stem Fence",
+ "block.logfences.warped_stem_fence_gate": "Warped Stem Fence Gate"
+}

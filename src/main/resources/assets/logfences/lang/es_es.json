@@ -1,0 +1,18 @@
+{
+ "block.logfences.oak_log_fence": "Valla de tronco de roble",
+ "block.logfences.oak_log_fence_gate": "Puerta de valla de tronco de roble",
+ "block.logfences.spruce_log_fence": "Valla de tronco de abeto",
+ "block.logfences.spruce_log_fence_gate": "Puerta de valla de tronco de abeto",
+ "block.logfences.birch_log_fence": "Valla de tronco de abedul",
+ "block.logfences.birch_log_fence_gate": "Puerta de valla de tronco de abedul",
+ "block.logfences.jungle_log_fence": "Valla de tronco de jungla",
+ "block.logfences.jungle_log_fence_gate": "Puerta de valla de tronco de jungla",
+ "block.logfences.acacia_log_fence": "Valla de tronco de acacia",
+ "block.logfences.acacia_log_fence_gate": "Puerta de valla de tronco de acacia",
+ "block.logfences.dark_oak_log_fence": "Valla de tronco de roble oscuro",
+ "block.logfences.dark_oak_log_fence_gate": "Puerta de valla de tronco de roble oscuro",
+ "block.logfences.crimson_stem_fence": "Valla de tallo carmesí",
+ "block.logfences.crimson_stem_fence_gate": "Puerta de valla de tallo carmesí",
+ "block.logfences.warped_stem_fence": "Valla de tallo distorsionado",
+ "block.logfences.warped_stem_fence_gate": "Puerta de valla de tallo distorsionado"
+}

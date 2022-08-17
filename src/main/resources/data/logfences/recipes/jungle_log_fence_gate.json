@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "#J#",
+  "#J#"
+ ],
+ "key":{
+  "#": {
+   "item": "minecraft:stick"
+  },
+  "J": {
+   "item": "minecraft:jungle_log"
+  }
+ },
+ "result": {
+  "item": "logfences:jungle_log_fence_gate"
+ }
+}

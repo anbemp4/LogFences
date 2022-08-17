@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "logfences:oak_log_fence",
+    "logfences:oak_log_fence_gate",
+    "logfences:spruce_log_fence",
+    "logfences:spruce_log_fence_gate",
+    "logfences:birch_log_fence",
+    "logfences:birch_log_fence_gate",
+    "logfences:jungle_log_fence",
+    "logfences:jungle_log_fence_gate",
+    "logfences:acacia_log_fence",
+    "logfences:acacia_log_fence_gate",
+    "logfences:dark_oak_log_fence",
+    "logfences:dark_oak_log_fence_gate",
+    "logfences:crimson_stem_fence",
+    "logfences:crimson_stem_fence_gate",
+    "logfences:warped_stem_fence",
+    "logfences:warped_stem_fence_gate"
+  ]
+}
